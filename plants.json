@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Sirih",
+        "scientificName": "Piper betle",
+        "image": "img/sirih.jpg",
+        "otherNames": "Daun sirih",
+        "benefits": [
+            "Sirih memiliki sifat antiseptik, anti-inflamasi, dan antioksidan. Dapat membantu mengobati luka, meredakan bau mulut, dan mengatasi keputihan."
+
+        ],
+        "uses": [
+            "Daun sirih sering digunakan sebagai bahan utama dalam pembuatan ramuan untuk kumur-kumur, serta sebagai obat tradisional untuk mengobati luka atau iritasi kulit."
+
+        ]
+    }
+]
